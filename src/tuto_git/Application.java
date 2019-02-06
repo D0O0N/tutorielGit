@@ -4,7 +4,7 @@ import java.awt.Frame;
 
 public class Application extends Frame {
 
-
+	// NTM GROS FPD JE BAISE TESMORTS
 	public static void main(String[] args) {
 		new Application();
 	}
